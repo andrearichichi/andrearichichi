@@ -1,5 +1,7 @@
-👨‍💻 Hey there! I’m currently pursuing my Master’s in Artificial Intelligence at the University of Trento, after completing my Bachelor’s in Computer Science. My journey includes an enriching internship at the Bruno Kessler Foundation, where I deepened my expertise in Machine Learning and video analysis.
+Hi, I’m Andrea Richichi, currently pursuing a Master’s in Artificial Intelligence Systems at the University of Trento and soon heading to Norway for an Erasmus at NTNU. I love turning complex AI concepts into real, impactful solutions.
 
-🔥 Passionate about embracing new challenges, I stay on the lookout for cutting-edge trends in AI. Whether working on my startup *LavorAI*, enhancing *VolleyVisionAI*, or exploring personal projects, I love getting hands-on and pushing the boundaries of my skills.
+At the Bruno Kessler Foundation, I worked on VolleyVisionAI, a computer vision tool that tracks ball trajectories and players to help coaches improve game strategies. Recently, I’ve been part of LavorAI, a startup focused on digital innovation in construction, we even secured €500K in funding (yes, that was a big win!).
+
+Always curious, always building. If it involves Machine Learning, Computer Vision, or creative problem-solving, count me in.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrearichichi&layout=compact&theme=dark)
