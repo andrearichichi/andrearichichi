@@ -4,7 +4,7 @@ At the Bruno Kessler Foundation, I worked on VolleyVisionAI, a computer vision t
 
 Always curious, always building. If it involves Machine Learning, Computer Vision, or creative problem-solving, count me in.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrearichichi&layout=compact&theme=default)
+
 
 
 
