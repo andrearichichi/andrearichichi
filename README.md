@@ -19,19 +19,6 @@
 
   <br>
 
-  <h3>About Me</h3>
-
-  <p align="left">
-     Currently pursuing a Master's in Artificial Intelligence Systems at the University of Trento and working as an <strong>AI Research Intern</strong> and <strong>Master's Thesis student</strong> at <strong>IDSIA (USI-SUPSI)</strong> in Lugano. 
-     <br><br>
-     My work focuses on <strong>AI for robotics</strong>, exploring how simulation and machine learning can be combined to build realistic robot digital twins. I work with <strong>ROS2</strong> and <strong>Unity</strong> to create environments where robots and simulations interact in real time.
-     <br><br>
-     Previously at the Bruno Kessler Foundation, I developed <strong>VolleyVisionAI</strong>, a computer vision system that tracks ball trajectories and player movements to support tactical analysis in volleyball.
-     <br><br>
-     <em>Always curious, always building. If it involves machine learning, robotics, computer vision, or creative problem-solving, count me in.</em>
-  </p>
-
-  <h3>⚡ Tech & Tools</h3>
   
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
