@@ -50,7 +50,7 @@
 <br><br>
 
   <p>
-    <a href="https://www.linkedin.com/in/andrearichichi/">
+    <a href="https://www.linkedin.com/in/andrea-richichi/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
     </a>
     <a href="mailto:richichiandrea@gmail.com">
