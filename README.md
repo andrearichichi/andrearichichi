@@ -14,7 +14,7 @@
   </p>
 
   <p align="center">
-     Focused on <strong>AI for Robotics</strong>, <strong>Computer Vision</strong>, and <strong>Applied Machine Learning</strong>
+     Focused on <strong>AI for Robotics</strong>, <strong>Computer Vision</strong> and <strong>Applied Machine Learning</strong>
   </p>
 
   <br>
